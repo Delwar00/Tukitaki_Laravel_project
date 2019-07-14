@@ -4,3 +4,11 @@ Tukitaki is a dynamic web platform which will provide a secure platform and crea
 <strong>Home Page</strong><br>
 
 <img src="https://csedelwarhossain.000webhostapp.com/allimage/allimage/tukitaki11.JPG">
+
+<strong>All Services</strong><br>
+
+<img src="https://csedelwarhossain.000webhostapp.com/allimage/allimage/tukitaki2.JPG">
+
+<strong>Services such as cleaning</strong><br>
+
+<img src="https://csedelwarhossain.000webhostapp.com/allimage/allimage/tukitaki3.JPG">
